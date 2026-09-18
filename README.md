@@ -1,7 +1,10 @@
 ## Hi there 👋
-
 ### My Certifications
-[![OpenLearn University](https://shields.io)](https://open.edu)
+
+<a href="https://open.edu" target="_blank">
+  <img src="https://shields.io" alt="OpenLearn University" />
+</a>
+
 
 
 <!--
