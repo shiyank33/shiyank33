@@ -1,9 +1,8 @@
 ## Hi there 👋
 ### My Certifications
 
-<a href="https://open.edu" target="_blank">
-  <img src="https://shields.io" alt="OpenLearn University" />
-</a>
+[![OpenLearn University](https://shields.io)](https://www.open.edu/openlearn/profiles/zr926696/achievements)
+
 
 
 
